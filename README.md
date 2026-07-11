@@ -58,7 +58,8 @@ The free tier is generous enough for this app; `gemini-3.1-flash-lite` is the de
 
 | Selecting a Persona | Chatbot Response |
 |----------------------|-------------------|
-| `screenshots/persona-select.png` | `screenshots/response.png` |
+<img width="1918" height="892" alt="image" src="https://github.com/user-attachments/assets/68a25913-90ee-4843-9817-08404afc393e" />
+
 
 ---
 
